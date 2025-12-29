@@ -6,8 +6,8 @@ This document details the design considerations for the fire alarm system at Eve
 ## High Value Asset Protection
 Special considerations for protecting high-value areas such as the rare book archives.
 
-### Standard Photoelectric Coverage
-The rare book archive is currently protected by three photoelectric smoke detectors (SMOKE-101, SMOKE-102, SMOKE-103) providing overlapping coverage. These detectors are adequate for typical smoke detection but may not provide the earliest possible warning for incipient fires.
+### Aspirating Smoke Detection (ASD) System
+The rare book archive will now be protected by a highly sensitive aspirating smoke detection (ASD) system. This system continuously draws air samples through a network of pipes to a central detector, providing extremely early warning of incipient fires before they become visible. This enhanced detection is critical for protecting irreplaceable historical documents.
 
 ## System Layout
 The system uses a single SLC loop with multiple notification appliance circuits.
