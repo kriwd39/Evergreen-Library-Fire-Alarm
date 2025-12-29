@@ -1,0 +1,7 @@
+ID,Location,Type,Model,Circuit
+SMOKE-101,Rare Books Archive,Photoelectric Smoke Detector,DS-1,SLC-1
+SMOKE-102,Rare Books Archive,Photoelectric Smoke Detector,DS-1,SLC-1
+SMOKE-103,Rare Books Archive,Photoelectric Smoke Detector,DS-1,SLC-1
+PULL-101,Main Lobby,Pull Station,PS-1,SLC-1
+HORN-101,Main Lobby,Horn/Strobe,HS-1,NAC-1
+HEAT-101,Boiler Room,Heat Detector,HD-1,SLC-2
